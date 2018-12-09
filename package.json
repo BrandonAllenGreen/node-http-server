@@ -1,7 +1,7 @@
 {
   "name": "node-http-server",
   "version": "1.0.0",
-  "description": "Create a valid html file called `index.html`. It should contain an h1 saying:\r \"My First Node.js Web Server\" and an image linking to the Node.js logo:\r https://rawgit.com/nodejs/nodejs.org/886b30fde80f35fd0db98793f258d78a9ae0a997/static/images/logo-light.svg",
+  "description": "Create a valid html file called `index.html`. It should contain an h1 saying:\r \"My First Node.js Web Server\" and an image linking to the Node.js logo:\r https://cdn.jsdelivr.net/gh/nodejs/nodejs.org@886b30fde80f35fd0db98793f258d78a9ae0a997/static/images/logo-light.svg",
   "main": "server01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
